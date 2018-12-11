@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DatabaseTestApplication {
+public class AdminAPIApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DatabaseTestApplication.class, args);
+		SpringApplication.run(AdminAPIApplication.class, args);
 	}
 }
